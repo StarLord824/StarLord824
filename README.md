@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhinav (aka Sansu)
-- 👀 I’m interested in Web3, Full Stack, UI/UX and System Desgn
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Full Stack Developement, Web3, UI/UX and System Desgn
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Backend Projects
-- 📺 I post Web3 tutorials on YoutTube at @SansuWeb3
+- 📺 I post Web3 tutorials on YouTube at @SansuWeb3
 - 📫 You can reach me via X/Twitter - x.com/shukla_abhi_nav
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun facts.
