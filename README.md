@@ -2,11 +2,9 @@
 - 👀 I’m interested in Full Stack Developement, Web3, UI/UX and System Design
 - 🌱 I’m currently learning Rust (familiar with Python, JS, TS, Java, Go)
 - 💞️ I’m looking to collaborate on Backend Projects
-- 📺 I post Web3 Stuff and blah.. blah.. on YouTube at @SansuWeb3, and Instagram too
-- 📫 You can reach me via X/Twitter - x.com/shukla_abhi_nav
+- 📺 I post Web3 Stuff and blah.. blah.. on YouTube at @world_web3, and Instagram too
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun facts.
-. 📒 Resume: https://drive.google.com/file/d/1AvPQAAVlloh4jkKFQxPd1zBe5AEXeVx0/view?usp=sharing
 <!---
 StarLord824/StarLord824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
