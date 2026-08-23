@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Developement, Web3, UI/UX and System Design
 - 🌱 I’m currently learning Rust (familiar with Python, JS, TS, Java, Go)
 - 💞️ I’m looking to collaborate on Backend Projects
-- 📺 I post Web3 Stuff and blah.. blah.. on YouTube at @world_web3, and Instagram too
+- 📺 I post AI&ML and Web3 Stuff and blah.. blah.. on YouTube at @world_web3, and Instagram too
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun facts.
 <!---
